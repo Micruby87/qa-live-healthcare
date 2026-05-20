@@ -4,13 +4,13 @@
 
 | Task ID | Task Name | Description | Status | Category | PRD Document |
 |---------|-----------|-------------|--------|----------|--------------|
-| TASK-001 | 数据模型设计 | 设计预约相关的数据结构和存储方案 | TODO | Analysis | TASK-001-data-model-prd.md |
-| TASK-002 | 预约时段组件 | 开发预约时段选择组件 | TODO | Implementation | TASK-002-time-slot-picker-prd.md |
-| TASK-003 | 医生排班页面 | 开发医生排班管理页面 | TODO | Implementation | TASK-003-doctor-schedule-prd.md |
-| TASK-004 | 预约表单页面 | 开发在线预约表单页面 | TODO | Implementation | TASK-004-appointment-form-prd.md |
-| TASK-005 | 预约记录页面 | 开发我的预约记录页面 | TODO | Implementation | TASK-005-my-appointments-prd.md |
-| TASK-006 | 路由配置 | 配置预约相关路由 | TODO | Implementation | TASK-006-routing-prd.md |
-| TASK-007 | 预约状态管理 | 实现预约状态变更逻辑 | TODO | Implementation | TASK-007-status-management-prd.md |
+| TASK-001 | 数据模型设计 | 设计预约相关的数据结构和存储方案 | DONE | Analysis | TASK-001-data-model-prd.md |
+| TASK-002 | 预约时段组件 | 开发预约时段选择组件 | DONE | Implementation | TASK-002-time-slot-picker-prd.md |
+| TASK-003 | 医生排班页面 | 开发医生排班管理页面 | DONE | Implementation | TASK-003-doctor-schedule-prd.md |
+| TASK-004 | 预约表单页面 | 开发在线预约表单页面 | DONE | Implementation | TASK-004-appointment-form-prd.md |
+| TASK-005 | 预约记录页面 | 开发我的预约记录页面 | DONE | Implementation | TASK-005-my-appointments-prd.md |
+| TASK-006 | 路由配置 | 配置预约相关路由 | DONE | Implementation | TASK-006-routing-prd.md |
+| TASK-007 | 预约状态管理 | 实现预约状态变更逻辑 | DONE | Implementation | TASK-007-status-management-prd.md |
 
 ---
 

@@ -2,9 +2,9 @@
 
 ## 工作区功能追踪列表
 
-| Feature ID | Feature Name | Description | Status | Created Date |
-|------------|--------------|-------------|--------|-------------|
-| FEAT-001-appointment-booking | 预约挂号功能 | 患者预约医生的线下门诊 | PLANNED | 2026-05-20 |
+| Feature ID | Feature Name | Description | Status | Progress | Created Date | Last Updated |
+|------------|--------------|-------------|--------|----------|-------------|--------------|
+| FEAT-001-appointment-booking | 预约挂号功能 | 患者预约医生的线下门诊 | COMPLETED | 100% | 2026-05-20 | 2026-05-20 |
 
 ---
 

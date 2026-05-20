@@ -2,7 +2,7 @@
 
 **Feature ID**: FEAT-001-appointment-booking
 **Created Date**: 2026-05-20
-**Status**: PLANNED
+**Status**: COMPLETED
 **Language**: zh
 
 ## 1. Overview
